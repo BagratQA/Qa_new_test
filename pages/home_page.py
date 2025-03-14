@@ -1,5 +1,6 @@
-from pages.base_page import BasePage
-from pages.locators import HomePageLocators
+from New_Test.pages.base_page import BasePage
+from New_Test.pages.locators import HomePageLocators
+
 
 class HomePage(BasePage):
     def logout(self):

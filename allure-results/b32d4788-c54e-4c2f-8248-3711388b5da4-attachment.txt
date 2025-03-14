@@ -1,0 +1,11 @@
+02:38:00 - [32mINFO[0m -  Open page: https://practicetestautomation.com/practice-test-login/
+02:38:03 - [32mINFO[0m -  Element found ('id', 'username')
+02:38:03 - [32mINFO[0m -  The text is entered in ('id', 'username'): student
+02:38:03 - [32mINFO[0m -  Element found ('id', 'password')
+02:38:03 - [32mINFO[0m -  The text is entered in ('id', 'password'): Password123
+02:38:03 - [32mINFO[0m -  Element found ('id', 'submit')
+02:38:04 - [32mINFO[0m -  Clicking on an element ('id', 'submit')
+02:38:04 - [32mINFO[0m -  Element found ('link text', 'Log out')
+02:38:04 - [32mINFO[0m -  Clicking on an element ('link text', 'Log out')
+02:38:04 - [32mINFO[0m -  Element found ('tag name', 'h2')
+02:38:04 - [32mINFO[0m - Text received: Test login

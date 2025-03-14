@@ -1,0 +1,65 @@
+14:26:18 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:26:22 - INFO -  Element found ('id', 'username')
+14:26:22 - INFO -  The text is entered in ('id', 'username'): wronguser
+14:26:22 - INFO -  Element found ('id', 'password')
+14:26:22 - INFO -  The text is entered in ('id', 'password'): wrongpassword
+14:26:22 - INFO -  Element found ('id', 'submit')
+14:26:23 - INFO -  Clicking on an element ('id', 'submit')
+14:26:23 - INFO -  Element found ('id', 'error')
+14:26:23 - INFO - Text received: Your username is invalid!
+14:26:26 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:26:30 - INFO -  Element found ('id', 'username')
+14:26:30 - INFO -  The text is entered in ('id', 'username'): student
+14:26:30 - INFO -  Element found ('id', 'password')
+14:26:30 - INFO -  The text is entered in ('id', 'password'): wrongpassword
+14:26:30 - INFO -  Element found ('id', 'submit')
+14:26:30 - INFO -  Clicking on an element ('id', 'submit')
+14:26:30 - INFO -  Element found ('id', 'error')
+14:26:30 - INFO - Text received: Your password is invalid!
+14:26:34 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:26:37 - INFO -  Element found ('id', 'username')
+14:26:37 - INFO -  The text is entered in ('id', 'username'): wronguser
+14:26:37 - INFO -  Element found ('id', 'password')
+14:26:38 - INFO -  The text is entered in ('id', 'password'): Password123
+14:26:38 - INFO -  Element found ('id', 'submit')
+14:26:38 - INFO -  Clicking on an element ('id', 'submit')
+14:26:38 - INFO -  Element found ('id', 'error')
+14:26:38 - INFO - Text received: Your username is invalid!
+14:26:43 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:26:47 - INFO -  Element found ('id', 'username')
+14:26:47 - INFO -  The text is entered in ('id', 'username'): 
+14:26:47 - INFO -  Element found ('id', 'password')
+14:26:47 - INFO -  The text is entered in ('id', 'password'): Password123
+14:26:47 - INFO -  Element found ('id', 'submit')
+14:26:47 - INFO -  Clicking on an element ('id', 'submit')
+14:26:47 - INFO -  Element found ('id', 'error')
+14:26:47 - INFO - Text received: Your username is invalid!
+14:26:50 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:26:54 - INFO -  Element found ('id', 'username')
+14:26:54 - INFO -  The text is entered in ('id', 'username'): student
+14:26:54 - INFO -  Element found ('id', 'password')
+14:26:54 - INFO -  The text is entered in ('id', 'password'): 
+14:26:54 - INFO -  Element found ('id', 'submit')
+14:26:54 - INFO -  Clicking on an element ('id', 'submit')
+14:26:54 - INFO -  Element found ('id', 'error')
+14:26:55 - INFO - Text received: Your password is invalid!
+14:26:58 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:27:01 - INFO -  Element found ('id', 'username')
+14:27:02 - INFO -  The text is entered in ('id', 'username'): student
+14:27:02 - INFO -  Element found ('id', 'password')
+14:27:02 - INFO -  The text is entered in ('id', 'password'): Password123
+14:27:02 - INFO -  Element found ('id', 'submit')
+14:27:03 - INFO -  Clicking on an element ('id', 'submit')
+14:27:03 - INFO -  Element found ('tag name', 'h1')
+14:27:03 - INFO - Text received: Logged In Successfully
+14:27:06 - INFO -  Open page: https://practicetestautomation.com/practice-test-login/
+14:27:09 - INFO -  Element found ('id', 'username')
+14:27:10 - INFO -  The text is entered in ('id', 'username'): student
+14:27:10 - INFO -  Element found ('id', 'password')
+14:27:10 - INFO -  The text is entered in ('id', 'password'): Password123
+14:27:10 - INFO -  Element found ('id', 'submit')
+14:27:11 - INFO -  Clicking on an element ('id', 'submit')
+14:27:11 - INFO -  Element found ('link text', 'Log out')
+14:27:11 - INFO -  Clicking on an element ('link text', 'Log out')
+14:27:11 - INFO -  Element found ('tag name', 'h2')
+14:27:11 - INFO - Text received: Test login

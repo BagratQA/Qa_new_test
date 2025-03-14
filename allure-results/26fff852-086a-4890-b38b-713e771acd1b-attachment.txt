@@ -1,0 +1,9 @@
+02:19:42 - [32mINFO[0m - 🔗 Открываем страницу: https://practicetestautomation.com/practice-test-login/
+02:19:45 - [32mINFO[0m - ✅ Найден элемент ('id', 'username')
+02:19:45 - [32mINFO[0m - ⌨ Введён текст в ('id', 'username'): student
+02:19:45 - [32mINFO[0m - ✅ Найден элемент ('id', 'password')
+02:19:45 - [32mINFO[0m - ⌨ Введён текст в ('id', 'password'): Password123
+02:19:45 - [32mINFO[0m - ✅ Найден элемент ('id', 'submit')
+02:19:45 - [32mINFO[0m - 🖱 Клик по элементу ('id', 'submit')
+02:19:45 - [32mINFO[0m - ✅ Найден элемент ('tag name', 'h1')
+02:19:45 - [32mINFO[0m - 📋 Получен текст: Logged In Successfully

@@ -1,0 +1,9 @@
+02:37:38 - [32mINFO[0m -  Open page: https://practicetestautomation.com/practice-test-login/
+02:37:41 - [32mINFO[0m -  Element found ('id', 'username')
+02:37:41 - [32mINFO[0m -  The text is entered in ('id', 'username'): student
+02:37:41 - [32mINFO[0m -  Element found ('id', 'password')
+02:37:41 - [32mINFO[0m -  The text is entered in ('id', 'password'): 
+02:37:41 - [32mINFO[0m -  Element found ('id', 'submit')
+02:37:41 - [32mINFO[0m -  Clicking on an element ('id', 'submit')
+02:37:41 - [32mINFO[0m -  Element found ('id', 'error')
+02:37:41 - [32mINFO[0m - Text received: Your password is invalid!

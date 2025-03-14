@@ -1,5 +1,6 @@
-from pages.base_page import BasePage
-from pages.locators import LoginPageLocators
+from New_Test.pages.base_page import BasePage
+from New_Test.pages.locators import LoginPageLocators
+
 
 class LoginPage(BasePage):
     def login(self, username, password):
